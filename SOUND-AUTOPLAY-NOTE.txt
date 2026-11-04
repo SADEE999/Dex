@@ -1,0 +1,6 @@
+SADEE PRO STORE VIDEO SOUND
+- The player attempts autoplay with sound on page load.
+- Mobile browsers usually block audible autoplay unless the visitor has interacted with the page or changed browser site settings.
+- If the browser blocks it, the video stays paused and the visitor must tap SOUND ON / TAP FOR SOUND once.
+- A website cannot override this browser restriction or force sound on silently.
+- The old hero caption banner reading SADEE / SYSTEM ONLINE / YOUR NEXT UPGRADE STARTS HERE has been removed from HTML.
